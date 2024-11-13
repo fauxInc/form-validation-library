@@ -1,0 +1,25 @@
+{
+  "name": "@fauxinc/form-validation-library",
+  "version": "1.0.0",
+  "description": "A comprehensive form validation library for React applications",
+  "main": "form-validation/formValidation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "form",
+    "validation",
+    "library",
+    "react"
+  ],
+  "author": "Vaishnav <vaishnavp2003@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fauxInc/form-validation-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fauxInc/form-validation-library.git"
+  },
+  "homepage": "https://github.com/fauxInc/form-validation-library.git"
+}
